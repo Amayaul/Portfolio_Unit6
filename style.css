@@ -1,14 +1,15 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://www.colourbox.com/preview/2308746-vector-illustration-of-kids-jumping.jpg");
       background-size: cover;
-      color: white;
+      color: pink;
     }
     .nav {
-      color: white;
+      color: Orange;
     }
     h1 {
       font-size: 70px;
+      text-align: center;
     }
     img {
       margin: 40px 0px 0px 0px;
